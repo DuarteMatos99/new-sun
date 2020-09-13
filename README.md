@@ -1,2 +1,2 @@
-#NewSun ☀
+# NewSun ☀
 
